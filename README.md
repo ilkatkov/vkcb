@@ -1,6 +1,3 @@
-# vkcb
-Vkontakte ChatBots / Вконтакте чат-боты
-
 # VKCB - бесплатные чат-боты v0.2
     
 Alt+3 Studio: http://vk.com/alt3s  
